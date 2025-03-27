@@ -1,0 +1,2 @@
+# getSmallestString
+getSmallestString
